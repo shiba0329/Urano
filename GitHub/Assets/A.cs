@@ -9,6 +9,7 @@ public class A : MonoBehaviour
     void Start()
     {
         Debug.Log("Urano");
+        urano = 18;
     }
 
     // Update is called once per frame
