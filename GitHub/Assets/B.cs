@@ -10,6 +10,7 @@ public class B : MonoBehaviour
     void Start()
     {
         Debug.Log("Honjo");
+        Debug.Log("Kento");
     }
 
     // Update is called once per frame
