@@ -7,7 +7,7 @@ public class B : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Honjo");
     }
 
     // Update is called once per frame
